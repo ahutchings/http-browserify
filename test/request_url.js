@@ -1,8 +1,7 @@
-global.window = global;
 global.location = {
-    host: 'localhost:8081',
-    port: 8081,
-    protocol: 'http:'
+  host: 'localhost:8081',
+  port: 8081,
+  protocol: 'http:'
 };
 
 var noop = function() {};
