@@ -1,6 +1,6 @@
 {
   "name": "@ahutchings/http-browserify-worker-support",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "description": "http module compatability for browserify",
   "main": "index.js",
   "browserify": "index.js",
